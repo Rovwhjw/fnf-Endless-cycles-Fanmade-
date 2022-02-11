@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="x.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="xdown0000" x="4" y="380" width="327" height="308"/>
+	<SubTexture name="xdown0001" x="331" y="382" width="327" height="320"/>
+	<SubTexture name="xdown0002" x="4" y="380" width="327" height="308"/>
+	<SubTexture name="xdown0003" x="331" y="382" width="327" height="320"/>
+	<SubTexture name="xidle0000" x="7172" y="14" width="872" height="1008" frameX="-10" frameY="0" frameWidth="907" frameHeight="1008"/>
+	<SubTexture name="xidle0001" x="14" y="1039" width="864" height="999" frameX="-1" frameY="-9" frameWidth="907" frameHeight="1008"/>
+	<SubTexture name="xidle0002" x="14" y="1039" width="864" height="999" frameX="-1" frameY="-9" frameWidth="907" frameHeight="1008"/>
+	<SubTexture name="xidle0003" x="881" y="1039" width="863" height="998" frameX="0" frameY="-10" frameWidth="907" frameHeight="1008"/>
+	<SubTexture name="xleft0000" x="1240" y="0" width="269" height="350"/>
+	<SubTexture name="xleft0001" x="1509" y="0" width="269" height="350"/>
+	<SubTexture name="xleft0002" x="1773" y="0" width="275" height="348"/>
+	<SubTexture name="xleft0003" x="1240" y="0" width="269" height="350"/>
+	<SubTexture name="xright0000" x="0" y="1072" width="310" height="356"/>
+	<SubTexture name="xright0001" x="305" y="1072" width="295" height="356"/>
+	<SubTexture name="xright0002" x="602" y="1071" width="297" height="356"/>
+	<SubTexture name="xup0000" x="4" y="715" width="276" height="348"/>
+	<SubTexture name="xup0001" x="279" y="715" width="276" height="348"/>
+	<SubTexture name="xup0002" x="552" y="714" width="276" height="348"/>
+	<SubTexture name="xup0003" x="825" y="714" width="275" height="343"/>
+</TextureAtlas>

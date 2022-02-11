@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="majin.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="majin down0000" x="0" y="533" width="300" height="532"/>
+	<SubTexture name="majin idle0000" x="308" y="538" width="318" height="527"/>
+	<SubTexture name="majinleft0000" x="372" y="0" width="510" height="516"/>
+	<SubTexture name="majinright0000" x="0" y="0" width="361" height="530"/>
+	<SubTexture name="majinup0000" x="886" y="0" width="289" height="527"/>
+	<SubTexture name="revival0000" x="617" y="509" width="311" height="556"/>
+</TextureAtlas>
